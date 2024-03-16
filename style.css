@@ -1004,6 +1004,9 @@ section .container {
 
 @media (max-width:666px) {
 
+    .home {
+       background-position: center;
+    }
     .home .container h1 {
         font-size: 38px;
         line-height: 48px;
