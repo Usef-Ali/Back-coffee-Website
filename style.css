@@ -1001,6 +1001,10 @@ section .container {
 
 @media (max-width:666px) {
 
+    .container {
+        width: 95%;
+        margin: auto;
+    }
     .home .container h1 {
         font-size: 42px;
         line-height: 48px;
